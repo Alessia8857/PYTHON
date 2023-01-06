@@ -9,5 +9,18 @@ for i in range(1,num+1):
     
     
 
-print(*my_list,sep= ', ')    
+print(*my_list,sep= ', ')  
 
+
+print(sum(my_list))
+
+ 
+
+
+
+# for i in range ()
+#  sum = 0
+#  while (i < len.my_list): 
+#     sum = sum + (i)
+# print(sum)    
+ 
